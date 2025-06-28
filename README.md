@@ -9,6 +9,8 @@ Welcome to my technical portfolio. This repository serves as a central summary o
 ### VirtualBox Troubleshooting Lab
 **Description:** Full VM deployment and error simulation using VirtualBox and Ubuntu 22.04. Includes snapshot handling, network errors, terminal diagnostics, and system documentation.
 
+![VirtualBox Project Screenshot](images/project-vbox.png)
+
 Repository: [virtualbox-troubleshooting-project](https://github.com/jordgarvi/virtualbox-troubleshooting-project)
 
 **Skills Demonstrated:** Virtualization, Troubleshooting, Documentation, Git, Ubuntu
@@ -17,6 +19,8 @@ Repository: [virtualbox-troubleshooting-project](https://github.com/jordgarvi/vi
 
 ### Real-World IT Ticket Simulation Lab
 **Description:** A practical lab simulating common IT issues such as network failure, static IP conflicts, firewall blocking, user access problems, and package installation errors. Each ticket includes diagnostics, commands used, and solutions.
+
+![Ticket Simulation Screenshot](images/project-ticket.png)
 
 Repository: [real-world-it-ticket-simulation-lab](https://github.com/jordgarvi/real-world-it-ticket-simulation-lab)
 
@@ -27,7 +31,9 @@ Repository: [real-world-it-ticket-simulation-lab](https://github.com/jordgarvi/r
 ### Portuguese Flashcard Study Deck
 **Description:** While learning European Portuguese, I created this flashcard deck in Markdown to help myself stay consistent with vocabulary and verb conjugation. It’s structured for Anki and version controlled in GitHub so I could track progress and stay organised.
 
-Repository: [portuguese-flashcards](https://github.com/jordgarvi/portuguese-study-deck)
+![Portuguese Flashcards Screenshot](images/project-portuguese.png)
+
+Repository: [portuguese-flashcards](https://github.com/jordgarvi/portuguese-flashcards)
 
 **Skills Demonstrated:** Markdown, Language Learning Resources, GitHub Pages (optional)
 
