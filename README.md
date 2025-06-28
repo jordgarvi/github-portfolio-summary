@@ -51,3 +51,12 @@ Repository: [portuguese-flashcards](https://github.com/jordgarvi/portuguese-flas
 ## About This Portfolio
 
 This repository is my way of sharing the hands on technical work I have been doing on my own initiative. It’s aimed at recruiters, hiring managers, and fellow tech enthusiasts who want to see real world skills in action, not just theory. Through these projects, I’m showing how I learn, troubleshoot, document and deliver practical IT solutions with clarity and care.
+
+---
+
+## Contact
+
+Feel free to connect with me or reach out:
+
+- LinkedIn: [linkedin.com/in/jordanbradfield](https://www.linkedin.com/in/jordan-bradfield)
+- Email: jordgarvi@hotmail.com
