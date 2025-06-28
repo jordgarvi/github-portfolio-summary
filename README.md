@@ -27,7 +27,7 @@ Repository: [real-world-it-ticket-simulation-lab](https://github.com/jordgarvi/r
 ### Portuguese Flashcard Study Deck
 **Description:** While learning European Portuguese, I created this flashcard deck in Markdown to help myself stay consistent with vocabulary and verb conjugation. It’s structured for Anki and version controlled in GitHub so I could track progress and stay organised.
 
-Repository: [portuguese-flashcards](https://github.com/jordgarvi/portuguese-flashcards)
+Repository: [portuguese-flashcards](https://github.com/jordgarvi/portuguese-study-deck)
 
 **Skills Demonstrated:** Markdown, Language Learning Resources, GitHub Pages (optional)
 
