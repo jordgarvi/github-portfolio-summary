@@ -35,7 +35,7 @@ Repository: [real-world-it-ticket-simulation-lab](https://github.com/jordgarvi/r
 
 Repository: [portuguese-flashcards](https://github.com/jordgarvi/portuguese-flashcards)
 
-**Skills Demonstrated:** Markdown, Language Learning Resources, GitHub Pages (optional)
+**Skills Demonstrated:** Markdown, Language Learning Resources.
 
 ---
 
